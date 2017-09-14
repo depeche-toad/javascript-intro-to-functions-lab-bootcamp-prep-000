@@ -25,7 +25,6 @@ function logShout(string) {
 function logWhisper(string) {
   console.log('hello')
 }
-function sayHitoGrandma(string) {
-  if string === lowercase {
-  return "I can't hear you" }
+function sayHitoGrandma(string)  {
+  return "I can't hear you"
 }
